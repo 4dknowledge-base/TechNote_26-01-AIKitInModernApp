@@ -1,0 +1,9 @@
+{
+    "apiKey": "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",
+    "provider": "OpenAI",
+    "baseURL": "www.soukaina.com",
+    "defaultModel": "gpt-4o-mini",
+    "visionModel": "gpt-4o",
+    "maxTokens": 2000,
+    "temperature": 0.3
+}
